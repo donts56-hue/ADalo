@@ -23,8 +23,8 @@ logger = logging.getLogger(__name__)
 # تنظیمات پیش‌فرض
 CONFIG_FILE = "bot_config.json"
 DEFAULT_CONFIG = {
-    "host_usernames": ["@TeRMoNeX"],
-    "admin_usernames": ["@TeRMoNeX"],
+    "host_usernames": ["TeRMoNeX"],
+    "admin_usernames": ["TeRMoNeX"],
     "vip_usernames": [],
     "banned_users": [],
     "teleport_locations": {
